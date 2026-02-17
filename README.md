@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%94%A5+Thermal-Aware+Systems+%7C+High-Performance+Computing;%F0%9F%8C%B3+Graph+Intelligence+%7C+Code+as+Knowledge;%F0%9F%93%88+Gamified+FinTech+%7C+Building+What+Matters" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%94%A5+Thermal-Aware+Systems+%7C+High-Performance+Computing;%F0%9F%8C%B3+Graph+Intelligence+%7C+Code+as+Knowledge;%E2%9A%A1+Performance+Engineering+%7C+Building+What+Matters" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -26,7 +26,7 @@ class SystemsEngineer:
     def __init__(self):
         self.name       = "Karthik Senthilkumar"
         self.role       = "Systems Engineer & Builder"
-        self.focus      = ["Thermal-Aware Computing", "Graph Intelligence", "FinTech"]
+        self.focus      = ["Thermal-Aware Computing", "Graph Intelligence", "Performance Engineering"]
         self.building   = "HeatSink-OS 🔥"
         self.philosophy = "Software should be as resilient as hardware."
 
@@ -38,7 +38,7 @@ I build **systems-level software** that solves real-world hardware problems. My 
 
 - 🔥 **Thermal Intelligence** — Proactive workload orchestration that outsmarts heat
 - 🌳 **Graph-Native Code Analysis** — Understanding codebases as knowledge, not text
-- 📈 **Gamified Learning** — Making complex domains accessible through play
+- 🏗️ **Systems Design** — Architecting robust, real-world infrastructure
 - ⚡ **Performance Engineering** — Squeezing every last drop from budget hardware
 
 ---
@@ -83,24 +83,6 @@ I build **systems-level software** that solves real-world hardware problems. My 
 
 </td>
 </tr>
-<tr>
-<td width="50%" colspan="2">
-
-<h3 align="center">📈 FinX v2</h3>
-<p align="center">
-  <a href="https://github.com/Karthiksenthilkumar1/finx_v2">
-    <img src="https://img.shields.io/badge/Gamified-Stock%20Simulator-ffd93d?style=for-the-badge&logo=flutter&logoColor=black"/>
-  </a>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/>
-</p>
-<p align="center"><strong>Gamified Stock Market Learning App</strong></p>
-<p align="center"><em>Practice investing with virtual money, explore real market data, and compete on leaderboards. Turning financial literacy into a game.</em></p>
-
-</td>
-</tr>
 </table>
 
 ---
@@ -109,7 +91,7 @@ I build **systems-level software** that solves real-world hardware problems. My 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,rust,dart,flutter,fastapi,qt,git,linux,docker,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,rust,fastapi,qt,git,linux,docker,github&theme=dark" />
 
 <br/><br/>
 
