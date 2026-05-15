@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1b27,60:ff6b6b,100:ffd93d&height=220&section=header&text=Karthik%20Senthilkumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Systems%20Engineer%20%7C%20Performance%20Obsessed%20%7C%20Builder&descAlignY=54&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1b27,60:ff6b6b,100:ffd93d&height=220&section=header&text=Karthik%20Senthilkumar&fontSize=55&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=%F0%9F%94%A5+Thermal-Aware+Systems+%7C+High-Performance+Computing;%F0%9F%8C%B3+Graph+Intelligence+%7C+Code+as+Knowledge;%E2%9A%A1+Performance+Engineering+%7C+Building+What+Matters" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=Systems+Engineer+%26+Builder;Thermal+Intelligence+Expert;Performance+Engineering+Enthusiast" alt="Typing SVG"/>
 </a>
 
 <br/>
@@ -14,6 +14,7 @@
 [![GitHub](https://img.shields.io/badge/-Karthiksenthilkumar1-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Karthiksenthilkumar1)
 [![Location](https://img.shields.io/badge/-India-FF6B6B?style=flat-square&logo=google-maps&logoColor=white)](#)
 [![Profile Views](https://komarev.com/ghpvc/?username=Karthiksenthilkumar1&color=ff6b6b&style=flat-square&label=Profile+Views)](https://github.com/Karthiksenthilkumar1)
+[![Repos](https://img.shields.io/badge/Repositories-8-ffd93d?style=flat-square&logo=github&logoColor=black)](#-featured-projects)
 
 </div>
 
@@ -27,11 +28,11 @@ class SystemsEngineer:
         self.name       = "Karthik Senthilkumar"
         self.role       = "Systems Engineer & Builder"
         self.focus      = ["Thermal-Aware Computing", "Graph Intelligence", "Performance Engineering"]
-        self.building   = "HeatSink-OS 🔥"
+        self.building   = ["HeatSink-OS 🔥", "BuyPass 🎬", "finxtract 📊"]
         self.philosophy = "Software should be as resilient as hardware."
 
     def current_mission(self):
-        return "Stopping thermal throttling before it stops you."
+        return "Solving real-world hardware problems with intelligent systems."
 ```
 
 I build **systems-level software** that solves real-world hardware problems. My work sits at the intersection of:
@@ -40,6 +41,28 @@ I build **systems-level software** that solves real-world hardware problems. My 
 - 🌳 **Graph-Native Code Analysis** — Understanding codebases as knowledge, not text
 - 🏗️ **Systems Design** — Architecting robust, real-world infrastructure
 - ⚡ **Performance Engineering** — Squeezing every last drop from budget hardware
+- 🎬 **Full-Stack Development** — Modern web applications built with cutting-edge tech
+
+---
+
+## 📊 Account Analytics
+
+<div align="center">
+
+### Repository Overview
+- **Total Repositories**: 8
+- **Original Projects**: 5
+- **Forked Projects**: 3
+- **Public Repos**: 8
+- **Stargazers**: 1
+- **Watchers**: 1
+
+### Tech Stack Distribution
+- **Primary Languages**: Python, TypeScript, JavaScript, Rust
+- **Last Updated**: May 15, 2026
+- **Account Created**: September 21, 2025
+
+</div>
 
 ---
 
@@ -59,10 +82,10 @@ I build **systems-level software** that solves real-world hardware problems. My 
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/PySide6-41CD52?style=flat&logo=qt&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MIT-License-blue"/>
 </p>
 <p align="center"><strong>Proactive Thermal Workload Orchestrator</strong></p>
 <p align="center"><em>Migrates heavy CPU tasks across cores before throttling kicks in. Built for tropical climates & budget hardware.</em></p>
+<p align="center">📅 Created: Feb 12, 2026 | 🔍 Size: 23 MB</p>
 
 </td>
 <td width="50%">
@@ -80,6 +103,49 @@ I build **systems-level software** that solves real-world hardware problems. My 
 </p>
 <p align="center"><strong>Graph-Native Code Intelligence</strong></p>
 <p align="center"><em>Replaces embedding-based RAG with deterministic program understanding. MCP-compatible.</em></p>
+<p align="center">📅 Created: Jan 8, 2026 | 🔍 Size: 38.7 MB</p>
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%">
+
+<h3 align="center">🎬 BuyPass</h3>
+<p align="center">
+  <a href="https://github.com/Karthiksenthilkumar1/BuyPass">
+    <img src="https://img.shields.io/badge/Movie%20Booking%20Platform-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  </a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/>
+</p>
+<p align="center"><strong>Modern Movie Booking + Cinephile Platform</strong></p>
+<p align="center"><em>BookMyShow meets Letterboxd. Seamless ticket booking with ratings, reviews, watchlists & QR-based tickets.</em></p>
+<p align="center">📅 Created: May 10, 2026 | 🔍 Size: 1.2 MB | ⭐ Latest Project</p>
+
+</td>
+<td width="50%">
+
+<h3 align="center">📊 FinXtract</h3>
+<p align="center">
+  <a href="https://github.com/Karthiksenthilkumar1/finxtract">
+    <img src="https://img.shields.io/badge/Financial%20Data%20Extraction-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  </a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+</p>
+<p align="center"><strong>Financial PDF Data Extraction</strong></p>
+<p align="center"><em>Extracts Balance Sheets & P&L statements from PDFs and converts to structured Excel files.</em></p>
+<p align="center">📅 Created: Mar 10, 2026 | 🔍 Size: 69 KB | ⭐ 1 Star</p>
 
 </td>
 </tr>
@@ -87,25 +153,65 @@ I build **systems-level software** that solves real-world hardware problems. My 
 
 ---
 
+## 📚 All Repositories
+
+<details>
+<summary><b>Click to expand repository list</b></summary>
+
+### Original Projects
+| Project | Language | Description | Status |
+|---------|----------|-------------|--------|
+| **BuyPass** | TypeScript | Movie booking platform (Next.js + Express + PostgreSQL) | Active |
+| **HeatSink-OS** | Python | Thermal-aware thread scheduler for Windows | Active |
+| **FinXtract** | JavaScript | Financial data extraction from PDFs | Active |
+| **finx_v2** | Multi-language | Gamified stock market learning app | Forked |
+| **Karthiksenthilkumar1** | - | Profile repository | Base |
+
+### Forked Projects
+| Project | Language | Description | Stars |
+|---------|----------|-------------|-------|
+| **Arbor** | Rust | Graph-native code intelligence | MIT Licensed |
+| **fish-shell** | Multi-language | User-friendly command line shell | 171 MB |
+| **vscode** | Multi-language | Visual Studio Code | 1.1 GB |
+
+</details>
+
+---
+
 ## 🛠️ Tech Arsenal
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,rust,fastapi,qt,git,linux,docker,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,typescript,rust,javascript,nextjs,fastapi,react,postgresql,docker,git,linux,github&theme=dark" />
 
 <br/><br/>
 
-**Systems & Performance**
+**Core Technologies**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Backend & DevOps**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**Frontend & Web**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+**Specializations**
 
 ![Thermal Management](https://img.shields.io/badge/🌡️_Thermal_Management-FF6B6B?style=for-the-badge)
 ![Core Migration](https://img.shields.io/badge/⚡_Core_Migration-ffd93d?style=for-the-badge&logoColor=black)
-![Predictive Analytics](https://img.shields.io/badge/📊_Predictive_Analytics-58A6FF?style=for-the-badge)
-
-**Intelligence & Protocols**
-
-![MCP](https://img.shields.io/badge/MCP-Protocol-238636?style=for-the-badge)
 ![Graph Analysis](https://img.shields.io/badge/🌳_Graph_Analysis-238636?style=for-the-badge)
-![Knowledge Graphs](https://img.shields.io/badge/🧠_Knowledge_Graphs-blueviolet?style=for-the-badge)
 
 </div>
 
@@ -147,16 +253,37 @@ I build **systems-level software** that solves real-world hardware problems. My 
 
 ---
 
-<div align="center">
+## 🎯 Current Focus
 
-### 💡 Philosophy
+| Area | Project | Status |
+|------|---------|--------|
+| **Thermal Computing** | HeatSink-OS | 🚀 Active Development |
+| **Full-Stack Web** | BuyPass | 🚀 Active Development |
+| **Data Intelligence** | Arbor | 🔄 Maintained |
+| **Finance Tech** | FinXtract | ✅ Complete |
+
+---
+
+## 💡 Philosophy
 
 > *"The best software doesn't fight the hardware — it dances with it."*
 
-<br/>
+**My Approach:**
+- 🎯 **Problem-First**: Start with real-world challenges, then design elegant solutions
+- 🔧 **System Thinking**: Understand the entire stack from hardware to UI
+- 📈 **Performance Obsessed**: Every line of code should earn its place
+- 🌍 **Real-World Impact**: Build software that works on constrained resources
+
+---
+
+<div align="center">
 
 <a href="https://github.com/Karthiksenthilkumar1?tab=repositories">
   <img src="https://img.shields.io/badge/🔍%20Explore%20All%20Repos-FF6B6B?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Karthiksenthilkumar1?tab=followers">
+  <img src="https://img.shields.io/badge/👥%20Connect%20With%20Me-238636?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
