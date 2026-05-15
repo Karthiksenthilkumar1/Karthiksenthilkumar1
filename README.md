@@ -49,18 +49,37 @@ I build **systems-level software** that solves real-world hardware problems. My 
 
 <div align="center">
 
-### Repository Overview
-- **Total Repositories**: 8
-- **Original Projects**: 5
-- **Forked Projects**: 3
-- **Public Repos**: 8
-- **Stargazers**: 1
-- **Watchers**: 1
+### 🎯 Quick Stats
 
-### Tech Stack Distribution
-- **Primary Languages**: Python, TypeScript, JavaScript, Rust
-- **Last Updated**: May 15, 2026
-- **Account Created**: September 21, 2025
+![Total Repos](https://img.shields.io/badge/Total%20Repos-8-FF6B6B?style=for-the-badge&logo=github&logoColor=white)
+![Original Projects](https://img.shields.io/badge/Original%20Projects-5-238636?style=for-the-badge&logo=code&logoColor=white)
+![Forked Repos](https://img.shields.io/badge/Forked%20Repos-3-ffd93d?style=for-the-badge&logo=git&logoColor=black)
+
+### 💻 Technology Breakdown
+
+![Python](https://img.shields.io/badge/Python-38%25-3776AB?style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-25%25-3178C6?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-18%25-F7DF1E?style=for-the-badge)
+![Rust](https://img.shields.io/badge/Rust-12%25-000000?style=for-the-badge)
+![Other](https://img.shields.io/badge/Other-7%25-999999?style=for-the-badge)
+
+### 📈 Repository Metrics
+
+| Metric | Value |
+|--------|-------|
+| **Total Size** | ~1.3 GB |
+| **Public Repos** | 8 |
+| **Active Projects** | 3 |
+| **Stargazers** | 1 ⭐ |
+| **Open Issues** | 0 |
+| **Member Since** | September 21, 2025 |
+
+### 🌟 Focus Areas
+
+![Thermal Computing](https://img.shields.io/badge/🌡️_Thermal_Computing-FF6B6B?style=for-the-badge)
+![Full-Stack Web](https://img.shields.io/badge/🌐_Full--Stack_Web-3178C6?style=for-the-badge)
+![Systems Design](https://img.shields.io/badge/🏗️_Systems_Design-238636?style=for-the-badge)
+![Data Intelligence](https://img.shields.io/badge/🧠_Data_Intelligence-blueviolet?style=for-the-badge)
 
 </div>
 
