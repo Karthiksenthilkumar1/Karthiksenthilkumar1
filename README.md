@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1b27,60:ff6b6b,100:ffd93d&height=220&section=header&text=Karthik%20Senthilkumar&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Systems%20Engineer%20%26%20Builder&descAlignY=68&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1b27,60:ff6b6b,100:ffd93d&height=220&section=header&text=Karthik%20Senthilkumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Systems%20Engineer%20%7C%20Thermal%20Intelligence%20%7C%20Graph%20Analysis&descAlignY=51&descAlign=50" width="100%"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=Building+Systems-Level+Software;Solving+Real-World+Hardware+Problems;Performance+%2B+Reliability+%3D+Reality" alt="typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=Building+Systems+That+Don't+Break+Under+Heat;Graph-Native+Code+Intelligence;Full-Stack+Performance+Engineering" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -28,7 +28,7 @@ class SystemsEngineer:
         self.name       = "Karthik Senthilkumar"
         self.role       = "Systems Engineer & Builder"
         self.focus      = ["Thermal-Aware Computing", "Graph Intelligence", "Performance Engineering"]
-        self.building   = ["HeatSink-OS 🔥", "BuyPass 🎬", "finxtract 📊"]
+        self.building   = ["HeatSink-OS 🔥", "BuyPass 🎬", "Smart-Space 🏠"]
         self.philosophy = "Software should be as resilient as hardware."
 
     def current_mission(self):
@@ -52,24 +52,24 @@ I build **systems-level software** that solves real-world hardware problems. My 
 ### 🎯 Quick Stats
 
 ![Total Repos](https://img.shields.io/badge/Total%20Repos-8-FF6B6B?style=for-the-badge&logo=github&logoColor=white)
-![Original Projects](https://img.shields.io/badge/Original%20Projects-5-238636?style=for-the-badge&logo=code&logoColor=white)
-![Forked Repos](https://img.shields.io/badge/Forked%20Repos-3-ffd93d?style=for-the-badge&logo=git&logoColor=black)
+![Original Projects](https://img.shields.io/badge/Original%20Projects-6-238636?style=for-the-badge&logo=code&logoColor=white)
+![Forked Repos](https://img.shields.io/badge/Forked%20Repos-2-ffd93d?style=for-the-badge&logo=git&logoColor=black)
 
 ### 💻 Technology Breakdown
 
-![Python](https://img.shields.io/badge/Python-38%25-3776AB?style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/TypeScript-25%25-3178C6?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-32%25-3776AB?style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-22%25-3178C6?style=for-the-badge)
+![Dart](https://img.shields.io/badge/Dart-18%25-0175C2?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-18%25-F7DF1E?style=for-the-badge)
-![Rust](https://img.shields.io/badge/Rust-12%25-000000?style=for-the-badge)
-![Other](https://img.shields.io/badge/Other-7%25-999999?style=for-the-badge)
+![Rust](https://img.shields.io/badge/Rust-10%25-000000?style=for-the-badge)
 
 ### 📈 Repository Metrics
 
 | Metric | Value |
 |--------|-------|
-| **Total Size** | ~1.3 GB |
+| **Total Size** | ~1.5 GB |
 | **Public Repos** | 8 |
-| **Active Projects** | 3 |
+| **Active Projects** | 4 |
 | **Stargazers** | 1 ⭐ |
 | **Open Issues** | 0 |
 | **Member Since** | September 21, 2025 |
@@ -80,7 +80,7 @@ I build **systems-level software** that solves real-world hardware problems. My 
 ![Thermal Computing](https://img.shields.io/badge/🌡️_Thermal_Computing-FF6B6B?style=for-the-badge)
 ![Full-Stack Web](https://img.shields.io/badge/🌐_Full--Stack_Web-3178C6?style=for-the-badge)
 ![Systems Design](https://img.shields.io/badge/🏗️_Systems_Design-238636?style=for-the-badge)
-![Data Intelligence](https://img.shields.io/badge/🧠_Data_Intelligence-blueviolet?style=for-the-badge)
+![AI/ML Solutions](https://img.shields.io/badge/🤖_AI/ML_Solutions-blueviolet?style=for-the-badge)
 
 </div>
 
@@ -152,20 +152,20 @@ I build **systems-level software** that solves real-world hardware problems. My 
 </td>
 <td width="50%">
 
-<h3 align="center">📊 FinXtract</h3>
+<h3 align="center">🏠 Smart-Space</h3>
 <p align="center">
-  <a href="https://github.com/Karthiksenthilkumar1/finxtract">
-    <img src="https://img.shields.io/badge/Financial%20Data%20Extraction-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <a href="https://github.com/Karthiksenthilkumar1/Smart-Space">
+    <img src="https://img.shields.io/badge/AI--Assisted-Space%20Analysis-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
   </a>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
 </p>
-<p align="center"><strong>Financial PDF Data Extraction</strong></p>
-<p align="center"><em>Extracts Balance Sheets & P&L statements from PDFs and converts to structured Excel files.</em></p>
-<p align="center">📅 Created: Mar 10, 2026 | 🔍 Size: 69 KB | ⭐ 1 Star | Status: ✅ Complete</p>
+<p align="center"><strong>AI-Assisted Smart Space Measurement Platform</strong></p>
+<p align="center"><em>Measure available spaces using mobile camera images and get intelligent product recommendations based on detected dimensions.</em></p>
+<p align="center">📅 Created: May 21, 2026 | 🔍 Size: 470 KB | ⭐ Latest | Status: 🚀 Active</p>
 
 </td>
 </tr>
@@ -182,6 +182,7 @@ I build **systems-level software** that solves real-world hardware problems. My 
 | Project | Language | Description | Status |
 |---------|----------|-------------|--------|
 | **BuyPass** | TypeScript | Movie booking platform (Next.js + Express + PostgreSQL) | 🚀 Active |
+| **Smart-Space** | Dart | AI-assisted space measurement & product recommendation platform | 🚀 Active |
 | **HeatSink-OS** | Python | Thermal-aware thread scheduler for Windows | 🚀 Active |
 | **FinXtract** | JavaScript | Financial data extraction from PDFs | ✅ Complete |
 | **finx_v2** | Multi-language | Gamified stock market learning app | 🔄 Maintained |
@@ -192,7 +193,6 @@ I build **systems-level software** that solves real-world hardware problems. My 
 |---------|----------|-------------|---------|
 | **Arbor** | Rust | Graph-native code intelligence | MIT |
 | **fish-shell** | Multi-language | User-friendly command line shell | GPL |
-| **vscode** | Multi-language | Visual Studio Code | MIT |
 
 </details>
 
@@ -202,7 +202,7 @@ I build **systems-level software** that solves real-world hardware problems. My 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,typescript,rust,javascript,nextjs,fastapi,react,postgresql,docker,git,linux,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,typescript,dart,rust,javascript,flutter,nextjs,fastapi,react,postgresql,docker,git,linux,github&theme=dark" />
 
 <br/><br/>
 
@@ -210,6 +210,7 @@ I build **systems-level software** that solves real-world hardware problems. My 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
@@ -223,14 +224,14 @@ I build **systems-level software** that solves real-world hardware problems. My 
 **Frontend & Web**
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 **Specializations**
 
 ![Thermal Management](https://img.shields.io/badge/🌡️_Thermal_Management-FF6B6B?style=for-the-badge)
-![Core Migration](https://img.shields.io/badge/⚡_Core_Migration-ffd93d?style=for-the-badge&logoColor=black)
+![Mobile Development](https://img.shields.io/badge/📱_Mobile_Development-0175C2?style=for-the-badge)
 ![Graph Analysis](https://img.shields.io/badge/🌳_Graph_Analysis-238636?style=for-the-badge)
 
 </div>
@@ -279,8 +280,8 @@ I build **systems-level software** that solves real-world hardware problems. My 
 |------|---------|--------|
 | **Thermal Computing** | HeatSink-OS | 🚀 Active Development |
 | **Full-Stack Web** | BuyPass | 🚀 Active Development |
+| **AI/Space Tech** | Smart-Space | 🚀 Active Development |
 | **Code Intelligence** | Arbor | 🔄 Maintained |
-| **Finance Tech** | FinXtract | ✅ Complete |
 
 ---
 
