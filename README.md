@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1b27,60:ff6b6b,100:ffd93d&height=220&section=header&text=Karthik%20Senthilkumar&fontSize=55&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1b27,60:ff6b6b,100:ffd93d&height=220&section=header&text=Karthik%20Senthilkumar&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Systems%20Engineer%20%26%20Builder&descAlignY=68&descAlign=50" width="100%"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=Systems+Engineer+%26+Builder;Thermal+Intelligence+Expert;Performance+Engineering+Enthusiast" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=Building+Systems-Level+Software;Solving+Real-World+Hardware+Problems;Performance+%2B+Reliability+%3D+Reality" alt="typing animation"/>
 </a>
 
 <br/>
@@ -14,7 +14,7 @@
 [![GitHub](https://img.shields.io/badge/-Karthiksenthilkumar1-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Karthiksenthilkumar1)
 [![Location](https://img.shields.io/badge/-India-FF6B6B?style=flat-square&logo=google-maps&logoColor=white)](#)
 [![Profile Views](https://komarev.com/ghpvc/?username=Karthiksenthilkumar1&color=ff6b6b&style=flat-square&label=Profile+Views)](https://github.com/Karthiksenthilkumar1)
-[![Repos](https://img.shields.io/badge/Repositories-8-ffd93d?style=flat-square&logo=github&logoColor=black)](#-featured-projects)
+[![Open Source](https://img.shields.io/badge/Open%20Source-MIT%20License-238636?style=flat-square&logo=opensourceinitiative&logoColor=white)](#)
 
 </div>
 
@@ -73,6 +73,7 @@ I build **systems-level software** that solves real-world hardware problems. My 
 | **Stargazers** | 1 ⭐ |
 | **Open Issues** | 0 |
 | **Member Since** | September 21, 2025 |
+| **Last Updated** | June 14, 2026 |
 
 ### 🌟 Focus Areas
 
@@ -104,7 +105,7 @@ I build **systems-level software** that solves real-world hardware problems. My 
 </p>
 <p align="center"><strong>Proactive Thermal Workload Orchestrator</strong></p>
 <p align="center"><em>Migrates heavy CPU tasks across cores before throttling kicks in. Built for tropical climates & budget hardware.</em></p>
-<p align="center">📅 Created: Feb 12, 2026 | 🔍 Size: 23 MB</p>
+<p align="center">📅 Created: Feb 12, 2026 | 🔍 Size: 23 MB | Status: 🚀 Active</p>
 
 </td>
 <td width="50%">
@@ -122,7 +123,7 @@ I build **systems-level software** that solves real-world hardware problems. My 
 </p>
 <p align="center"><strong>Graph-Native Code Intelligence</strong></p>
 <p align="center"><em>Replaces embedding-based RAG with deterministic program understanding. MCP-compatible.</em></p>
-<p align="center">📅 Created: Jan 8, 2026 | 🔍 Size: 38.7 MB</p>
+<p align="center">📅 Created: Jan 8, 2026 | 🔍 Size: 38.7 MB | Status: 🔄 Maintained</p>
 
 </td>
 </tr>
@@ -146,7 +147,7 @@ I build **systems-level software** that solves real-world hardware problems. My 
 </p>
 <p align="center"><strong>Modern Movie Booking + Cinephile Platform</strong></p>
 <p align="center"><em>BookMyShow meets Letterboxd. Seamless ticket booking with ratings, reviews, watchlists & QR-based tickets.</em></p>
-<p align="center">📅 Created: May 10, 2026 | 🔍 Size: 1.2 MB | ⭐ Latest Project</p>
+<p align="center">📅 Created: May 10, 2026 | 🔍 Size: 1.2 MB | ⭐ Latest Project | Status: 🚀 Active</p>
 
 </td>
 <td width="50%">
@@ -164,7 +165,7 @@ I build **systems-level software** that solves real-world hardware problems. My 
 </p>
 <p align="center"><strong>Financial PDF Data Extraction</strong></p>
 <p align="center"><em>Extracts Balance Sheets & P&L statements from PDFs and converts to structured Excel files.</em></p>
-<p align="center">📅 Created: Mar 10, 2026 | 🔍 Size: 69 KB | ⭐ 1 Star</p>
+<p align="center">📅 Created: Mar 10, 2026 | 🔍 Size: 69 KB | ⭐ 1 Star | Status: ✅ Complete</p>
 
 </td>
 </tr>
@@ -180,18 +181,18 @@ I build **systems-level software** that solves real-world hardware problems. My 
 ### Original Projects
 | Project | Language | Description | Status |
 |---------|----------|-------------|--------|
-| **BuyPass** | TypeScript | Movie booking platform (Next.js + Express + PostgreSQL) | Active |
-| **HeatSink-OS** | Python | Thermal-aware thread scheduler for Windows | Active |
-| **FinXtract** | JavaScript | Financial data extraction from PDFs | Active |
-| **finx_v2** | Multi-language | Gamified stock market learning app | Forked |
+| **BuyPass** | TypeScript | Movie booking platform (Next.js + Express + PostgreSQL) | 🚀 Active |
+| **HeatSink-OS** | Python | Thermal-aware thread scheduler for Windows | 🚀 Active |
+| **FinXtract** | JavaScript | Financial data extraction from PDFs | ✅ Complete |
+| **finx_v2** | Multi-language | Gamified stock market learning app | 🔄 Maintained |
 | **Karthiksenthilkumar1** | - | Profile repository | Base |
 
 ### Forked Projects
-| Project | Language | Description | Stars |
-|---------|----------|-------------|-------|
-| **Arbor** | Rust | Graph-native code intelligence | MIT Licensed |
-| **fish-shell** | Multi-language | User-friendly command line shell | 171 MB |
-| **vscode** | Multi-language | Visual Studio Code | 1.1 GB |
+| Project | Language | Description | License |
+|---------|----------|-------------|---------|
+| **Arbor** | Rust | Graph-native code intelligence | MIT |
+| **fish-shell** | Multi-language | User-friendly command line shell | GPL |
+| **vscode** | Multi-language | Visual Studio Code | MIT |
 
 </details>
 
@@ -278,7 +279,7 @@ I build **systems-level software** that solves real-world hardware problems. My 
 |------|---------|--------|
 | **Thermal Computing** | HeatSink-OS | 🚀 Active Development |
 | **Full-Stack Web** | BuyPass | 🚀 Active Development |
-| **Data Intelligence** | Arbor | 🔄 Maintained |
+| **Code Intelligence** | Arbor | 🔄 Maintained |
 | **Finance Tech** | FinXtract | ✅ Complete |
 
 ---
@@ -292,8 +293,11 @@ I build **systems-level software** that solves real-world hardware problems. My 
 - 🔧 **System Thinking**: Understand the entire stack from hardware to UI
 - 📈 **Performance Obsessed**: Every line of code should earn its place
 - 🌍 **Real-World Impact**: Build software that works on constrained resources
+- 🚀 **Continuous Evolution**: Always learning, always improving
 
 ---
+
+## 🔗 Let's Connect
 
 <div align="center">
 
